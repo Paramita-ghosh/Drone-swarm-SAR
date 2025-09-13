@@ -1,7 +1,7 @@
 # Drone-swarm-SAR
 # 🟦 Pygame Swarm Simulation
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Paramita Ghosh
 
@@ -54,7 +54,7 @@ It consists of three tasks:
 
 ---
 
-📈 Learning Outcomes
+## 📈 Learning Outcomes
 
 ✔ Built interactive games using Python and Pygame
 ✔ Implemented collision detection and boundary checks
